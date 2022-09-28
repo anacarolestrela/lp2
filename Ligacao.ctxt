@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ligacao
+comment0.text=\r\nn\u00FAmero\ do\ telefone\ que\ a\ originou,\ o\ nome\ da\ localidade\ de\ origem,\r\no\ n\u00FAmero\ e\ o\ local\ de\ destino\ da\ liga\u00E7\u00E3o,\ o\ valor\ total\ da\ liga\u00E7\u00E3o,\r\n\ o\ momento\ de\ in\u00EDcio\ e\ o\ momento\ de\ t\u00E9rmino\ da\ liga\u00E7\u00E3o\r\n
+comment1.params=t1\ nomeL\ norigem\ ndestino
+comment1.target=Ligacao(Tempo,\ java.lang.String,\ int,\ int)
+comment2.params=numero
+comment2.target=void\ origemdestino(int)
+comment2.text=public\ float\ calculaValor(Tempo\ t1)\r\n\ \ \ \ {\ \r\n\ \ \ \ \ \ \ \ this.t\=t2-t1;\r\n\ \ \ \ \ \ \ \ if\ (t>1)\r\n\ \ \ \ \ \ \ \ this.valor\=t*1;\r\n\ \ \ \ \ \ \ \ return\ valor;\r\n\ \ \ \ \ \ \ \ \r\n}
+numComments=3
