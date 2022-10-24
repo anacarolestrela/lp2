@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CartaoOuro
+comment1.params=codP\ codS\ dataE\ dataV\ limite
+comment1.target=CartaoOuro(int,\ int,\ int,\ int,\ double)
+comment2.params=y
+comment2.target=void\ sampleMethod(int)
+numComments=3
